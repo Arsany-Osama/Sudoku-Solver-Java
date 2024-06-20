@@ -66,9 +66,10 @@ Solving Input Grid Interface:
 ![Screenshot (207)](https://github.com/Arsany-Osama/Sudoku-Solver-Java/assets/160052013/98a258fd-5684-443b-986e-1fc689ecccd4)
 
 ### Features:
-- The game does not stop until all the pieces are finished
-- Determine the depth of each algorithm to customize the intelligence or difficulty of the game
-- Every time you have to press the play button to allow the chosen algorithm to make the decision, which allows diversity in each game according to the inputs
+- It allows 4 levels of random grid, and through the button below you can verify the correctness of the number selection
+- When you advance in the level, the number of numbers displayed is reduced, and this is done by backtracking search
+- Before displaying the numbers, they are solved, and you can view the entire solution by clicking on solve all
+- In the input grid, you choose the numbers, and if there is no solution, this will be displayed for you so that you can change some of the numbers.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
