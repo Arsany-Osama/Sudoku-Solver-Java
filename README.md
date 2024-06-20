@@ -12,10 +12,10 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h3 align="center">Connect 4</h3>
+  <h3 align="center">Sudoku Solver</h3>
 
   <p align="center">
-    AI application using (Minimax + Alpha-Beta pruning)
+    AI application using (Backtracking + Arc Consistency)
     <br />
     <a href="https://github.com/Arsany-Osama/Sudoku-Solver-Java/tree/master"><strong>Explore the docs »</strong></a>
   </p>
@@ -48,11 +48,22 @@
 
 ## About The Project
 </br>
-Game Interface:
+The 2 Modes Interface:
 </br></br>
 
-![screenshot](https://github.com/Arsany-Osama/Sudoku-Solver-Java/assets/160052013/e1b5e012-ce94-4b07-bd78-3999e8b0e4de)
+![Screenshot (205)](https://github.com/Arsany-Osama/Sudoku-Solver-Java/assets/160052013/27551ac6-09b6-4a41-9d12-02167ed21e27)
 
+</br></br>
+Solving Random Sudoku Grid Interface:
+</br></br>
+
+![Screenshot (206)](https://github.com/Arsany-Osama/Sudoku-Solver-Java/assets/160052013/4e112238-3f42-49f0-a0e3-5813f8a9fbcf)
+
+</br></br>
+Solving Input Grid Interface:
+</br></br>
+
+![Screenshot (207)](https://github.com/Arsany-Osama/Sudoku-Solver-Java/assets/160052013/98a258fd-5684-443b-986e-1fc689ecccd4)
 
 ### Features:
 - The game does not stop until all the pieces are finished
